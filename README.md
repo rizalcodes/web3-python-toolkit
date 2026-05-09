@@ -48,4 +48,4 @@ ETHERSCAN_API = "your_api_key_here"
 **Rizal** — Python & Web3 Developer
 - GitHub: [@rizalcodes](https://github.com/rizalcodes)
 - Fiverr: [@izall7](https://fiverr.com/izall7)
-- LinkedIn: [@[Rizal](https://linkedin.com/in/rizal-ical))
+- LinkedIn: [@Rizal](https://www.linkedin.com/in/rizal-ical-b01789407/)
