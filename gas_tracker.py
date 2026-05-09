@@ -2,7 +2,7 @@ import requests
 from datetime import datetime
 import time
 
-ETHERSCAN_API = "AW8AJ3TQV79VTM1WM9KY7W9H5ICZZ1WUYT"
+ETHERSCAN_API = "Your_Api_Key_here"
 
 def get_gas_price():
     url = "https://api.etherscan.io/v2/api"
