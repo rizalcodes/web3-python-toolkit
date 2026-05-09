@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-ETHERSCAN_API = "AW8AJ3TQV79VTM1WM9KY7W9H5ICZZ1WUYT"
+ETHERSCAN_API = "Your_Api_Key_Here"
 
 # Contract address token populer
 TOKENS = {
