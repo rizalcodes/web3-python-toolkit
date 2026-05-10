@@ -3,9 +3,9 @@ import time
 from datetime import datetime
 
 # Config — isi dengan data kamu
-ETHERSCAN_API = "AW8AJ3TQV79VTM1WM9KY7W9H5ICZZ1WUYT"
-TELEGRAM_TOKEN = "8660442841:AAGIG5Rf89llvH0W985Zj2e4E-AbfyonJ5o"
-CHAT_ID = "1024188205"
+ETHERSCAN_API = "Your_Api_Key_here"
+TELEGRAM_TOKEN = "Your_Api_Key_Here"
+CHAT_ID = "Your_Chat_ID"
 MIN_ETH = 100  # alert kalau transaksi > 100 ETH
 
 def send_telegram(pesan):
