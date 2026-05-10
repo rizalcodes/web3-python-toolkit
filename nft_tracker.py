@@ -1,7 +1,7 @@
 import requests
 from datetime import datetime
 
-OPENSEA_API = "7c5707a9e07e49ca88b1b60b3eb83197"
+OPENSEA_API = "Your_Api_Key_Here"
 
 def get_nft_collection(slug):
     """Ambil info & floor price sebuah NFT collection"""
